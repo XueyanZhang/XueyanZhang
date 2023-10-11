@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XueyanZhang
-- 👀 I’m interested in building fun software projects.
-- 🌓 I'm amazed by our universe; so many sophisticated facts are awaiting us to explore
-- 🌱 I’m currently learning software engineering, compiler code gen, and reinforcement learning.
+- 👀 Here is what I do: [infinite loop](https://github.com/XueyanZhang)
+- Compiler, NPU, AI, NLP, Mobile App, still poking around
 
 <!---
 XueyanZhang/XueyanZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
