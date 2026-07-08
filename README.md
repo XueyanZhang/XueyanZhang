@@ -5,20 +5,29 @@
 
 🌐 **[xueyanzhang.github.io](https://xueyanzhang.github.io/)**
 
-**Most recent research**
-- PyTorch Inductor Graph Fusion
+---
 
-**Selected publications** (full list on [my site](https://xueyanzhang.github.io/))
+**Recent Activity**
+- Research PyTorch Inductor Graph Fusion
+- OpenMarkdown.dev
+
+---
+
+**Selected publications** ([full list](https://xueyanzhang.github.io/))
 - UORA: Uniform Orthogonal Reinitialization Adaptation in PEFT — ACL 2025 · [paper](https://arxiv.org/abs/2505.20154)
 - Tiny Budgets, Big Gains: Parameter Placement Strategy in PEFT — EMNLP 2025 · [paper](https://aclanthology.org/2025.emnlp-main.321/)
 - Large Language Model is not a (Multilingual) Compositional Relation Reasoner — COLM 2024 · [paper](https://arxiv.org/abs/2403.02615)
 
+---
+
 **Projects**
-- 📐 [OpenTikZ](https://opentikz.org/) — AI tool that generates publication-ready LaTeX TikZ figures from text, templates, or images
+- #M [OpenMarkdown.dev](https://openmarkdown.dev) — A local-first Markdown editor. Feather-light. Light-speed.
+- 📐 [OpenTikZ.org](https://opentikz.org/) — AI tool that generates publication-ready LaTeX TikZ figures from text, templates, or images
 - 🔖 [iMarkAi](https://imarkai.com/) — Agentic bookmark manager with semantic search
 - 🔮 Tarot: Starry Guidance — AI-powered Tarot reader on WeChat platform
 - ✂️ [Perses](https://github.com/uw-pluverse/perses) — Language-agnostic program reducer that uses grammar info to minimize code
 
+---
 **Tech**
 
 Languages  
